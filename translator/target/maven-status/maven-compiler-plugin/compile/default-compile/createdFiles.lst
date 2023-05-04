@@ -1,0 +1,11 @@
+translator\dictionary\DictionaryRuleFour.class
+translator\controller\TranslateController.class
+translator\service\translate\impl\rule\RuleFour.class
+translator\service\translate\Translate.class
+translator\service\translate\impl\rule\RuleTwo.class
+translator\TranslatorApp.class
+translator\service\DictionaryFromFileService.class
+translator\service\translate\impl\rule\RuleOne.class
+translator\service\translate\impl\rule\RuleThree.class
+translator\service\translate\impl\TranslateService.class
+translator\dictionary\DictionaryRuleThree.class
